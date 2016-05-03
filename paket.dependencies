@@ -1,6 +1,10 @@
 source https://nuget.org/api/v2
 
 nuget FSharp.Core redirects: force
+nuget Akka
+nuget Akka.Remote
+nuget Akka.Cluster prerelease 
+nuget Akka.FSharp
 
 group Build
   source https://nuget.org/api/v2
