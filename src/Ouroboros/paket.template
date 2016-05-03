@@ -1,0 +1,25 @@
+type project
+title
+    Ouroboros
+owners
+    Milosz Krajewski
+authors 
+    Milosz Krajewski
+projectUrl
+    http://github.com/MiloszKrajewski/Ouroboros
+iconUrl
+    https://raw.githubusercontent.com/MiloszKrajewski/Ouroboros/master/docs/files/img/logo.png
+licenseUrl
+    http://github.com/MiloszKrajewski/Ouroboros/blob/master/LICENSE.txt
+requireLicenseAcceptance
+    false
+copyright
+    Copyright 2015
+tags
+    akka evolisa distributed
+summary
+    distributed EvoLisa with Akka.net
+description
+    distributed implementation of EvoLisa using Akka.net
+
+
